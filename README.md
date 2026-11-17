@@ -23,7 +23,7 @@ Para ejecutar este proyecto localmente necesitas:
 1. Clona el repositorio:
 
 ```bash
-git clone [https://github.com/jvasquezdev/portafolio-backend-laravel.git](https://github.com/jvasquezdev/portafolio-backend-laravel.git)
+git clone https://github.com/jvasquezdev/portafolio-backend-laravel.git
 cd portafolio-backend-laravel
 ```
 
